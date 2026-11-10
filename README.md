@@ -104,11 +104,10 @@ O projeto foi construído em Python e segue a seguinte estrutura de processament
 
 | Integrante | Fase | Papel Principal |
 |--- |--- |--- |
-| **Nome do Aluno 1** | 4ª Fase | Liderança Técnica / Modelagem de Dados & Pipelines |
-| **Nome do Aluno 2** | 4ª Fase | Engenharia de Prompts (IA Generativa) & Storytelling |
-| **Nome do Aluno 3** | 2ª Fase | Ingestão, Limpeza e Tratamento de Dados |
-| **Nome do Aluno 4** | 2ª Fase | Visualização de Dados e Design do Dashboard |
-| **Nome do Aluno 5** | 2ª Fase | Análise Exploratória e Apresentação Executiva (Pitch) |
+| **Maria Balbis ** | 2ª Fase | Liderança Técnica / Modelagem de Dados & Pipelines |
+| **Nicolas Urban ** | 2ª Fase | Engenharia de Prompts (IA Generativa) & Storytelling |
+| **Bernardo Bernardes ** | 2ª Fase | Ingestão, Limpeza e Tratamento de Dados |
+| **Ryan ** | 2ª Fase | Visualização de Dados e Design do Dashboard |
 
 ---
 *Projeto desenvolvido para o Datathon da Semana Acadêmica - Bacharelado em Ciência de Dados e Inteligência Artificial.*
